@@ -36,6 +36,9 @@ This is a simple yet fun command-line based quiz application built to test your 
 
 ## 📸 Screenshots
 
+![image alt](https://github.com/princekumar9234/Quiz-project-/blob/762459ec4e1ae0797b33a89e45c29efd5992551c/Quiz.png)
+
+
 
 ## 🚀 How to Run
 
